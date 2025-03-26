@@ -1,0 +1,14 @@
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\bin\Debug\net8.0\AnonIncomeAssignment.exe
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\bin\Debug\net8.0\AnonIncomeAssignment.deps.json
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\bin\Debug\net8.0\AnonIncomeAssignment.runtimeconfig.json
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\bin\Debug\net8.0\AnonIncomeAssignment.dll
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\bin\Debug\net8.0\AnonIncomeAssignment.pdb
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\AnonIncomeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\AnonIncomeAssignment.AssemblyInfoInputs.cache
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\AnonIncomeAssignment.AssemblyInfo.cs
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\AnonIncomeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\AnonIncomeAssignment.dll
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\refint\AnonIncomeAssignment.dll
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\AnonIncomeAssignment.pdb
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\AnonIncomeAssignment.genruntimeconfig.cache
+C:\Users\ncory\source\repos\AnonIncomeAssignment\AnonIncomeAssignment\obj\Debug\net8.0\ref\AnonIncomeAssignment.dll
